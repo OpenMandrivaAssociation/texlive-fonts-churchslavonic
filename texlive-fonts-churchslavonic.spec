@@ -1,6 +1,6 @@
 Name:		texlive-fonts-churchslavonic
 Version:	56350
-Release:	1
+Release:	2
 Summary:	Fonts for typesetting in Church Slavonic language
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fonts-churchslavonic

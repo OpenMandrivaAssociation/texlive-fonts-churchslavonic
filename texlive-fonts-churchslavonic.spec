@@ -3,7 +3,7 @@ Version:	67473
 Release:	1
 Summary:	Fonts for typesetting in Church Slavonic language
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fonts-churchslavonic
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/fonts-churchslavonic
 License:	ofl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fonts-churchslavonic.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fonts-churchslavonic.doc.r%{version}.tar.xz
